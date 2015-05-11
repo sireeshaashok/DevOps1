@@ -2,8 +2,9 @@ package test;
 
 public class TestTeamCommit {
 	
-	public String printlnn(String Str){
-		return Str;
+	public static void main(String[] args) 
+	{
+		System.out.println("Task Update:::4324324 Test");
 	}
 
 }
